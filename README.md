@@ -8,9 +8,8 @@ Desde já, salientamos que este exame irá medir o seu nível de "se virômetro"
 soluções no dia a dia. Portanto, você está livre para pesquisar na Internet e até mesmo copiar códigos dos outros.
 Porém, apresente um código final legível, entendível e organizado, pois isso será usado como critério de avaliação.
 
-Para realizar este exame, primeiramente, crie um FORK deste repositório na sua conta pessoal e faca commit de todas as respostas neste FORK.
-Este exame é composto de 5 questões, a seguir:
-Cada resposta deve ser colocada na sua respectiva pasta.
+Para realizar este exame, primeiramente, crie um FORK deste repositório na sua conta pessoal e faça commit de todas as respostas neste FORK.
+Este exame é composto de 5 questões, e cada resposta deve ser colocada na sua respectiva pasta.
 
 ### Questão 1) Desenvolva uma função *em javascript* para verificar se é número primo
 Um número é classificado como primo se ele é maior do que 1 e divisível apenas por 1 e por ele mesmo.
